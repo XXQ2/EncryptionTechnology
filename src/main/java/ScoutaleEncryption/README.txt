@@ -1,0 +1,13 @@
+スキュタレー暗号
+https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%A5%E3%82%BF%E3%83%AC%E3%83%BC
+
+# encoder.
+平文：AFTERASTORMCOMESACALMIGMBTYSCE
+R(一巻きの文字数)：６
+返却値：AAMSMTFSCAIYTTOCGSEOMAMCRRELBE
+
+# decoder.
+暗号文：AAMSMTFSCAIYTTOCGSEOMAMCRRELBE
+R(一巻きの文字数)：６
+返却値：AFTERASTORMCOMESACALMIGMBTYSCE
+清書：After a storm comes a calm.
